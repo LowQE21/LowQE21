@@ -7,7 +7,7 @@
 
 📍 Studying at Asia Pacific University
 
-🔑 Passionate about Capture the Flag (CTF), Ethical Hacking and Blockchain
+🔑 Passionate about Capture the Flag (CTF) and Ethical Hacking
 
 ## 📞 Contact
 
