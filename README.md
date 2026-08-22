@@ -3,16 +3,17 @@
 </div>
 
 # Hi there 👋
-🎓 Degree in Computer Science Specializing in Cybersecurity
 
-📍 Studying at Asia Pacific University
+🎓 **Degree in Computer Science Specializing in Cybersecurity**  
+📍 **Studying at Asia Pacific University**  
+🔑 **Passionate about Capture the Flag (CTF), Ethical Hacking, and Digital Forensics**  
 
-🔑 Passionate about Capture the Flag (CTF) and Ethical Hacking
+💼 Aspiring Cybersecurity Professional | Network Security Enthusiast | CTF Player
 
 ## 📞 Contact
 
-- 📧 **Email**: (lowqingen12345@gmail.com)
-- 🔗 **LinkedIn**: (https://www.linkedin.com/in/qing-en-low-0b4749244)
+- 📧 **Email**: lowqingen12345@gmail.com
+- 🔗 **LinkedIn**: [Qing En Low](https://www.linkedin.com/in/qing-en-low/)
 
 
 ## 🛠️ Tech Stack
@@ -56,12 +57,15 @@
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00C58E?logo=openai&logoColor=white)
 ![Wix](https://img.shields.io/badge/-Wix-000?logo=wix&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?logo=microsoft&logoColor=white)
-![Snap!](https://img.shields.io/badge/-Snap!-0078D4?logo=snapchat&logoColor=white)
 
 ## 📜 Certifications
 
+- Certified Ethical Hacker (CEH)
+- CompTIA Security+
+- Cisco Certified Network Associate (CCNA)
 
-## 🥇 Competition/Events
+## 🥇 Competitions & Events
+
 ### APUBCC Sparkathon 2023
 ### FORENSIC GAME 2024
 ### Digital Forensic Showdown 2024
