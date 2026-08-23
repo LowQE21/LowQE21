@@ -1,13 +1,11 @@
 # Qing En Low
 
-### Cybersecurity Graduate | Application & API Security | Security Engineering
+### Cybersecurity Graduate 
 
 Computer Science (Cybersecurity) graduate with hands-on experience in
 application security, API security, vulnerability assessment, security
 testing, and software engineering.
 
-Interested in building, testing, and analyzing secure systems across
-web applications, APIs, backend services, and Web2/Web3 environments.
 
 ## Contact
 
@@ -120,23 +118,6 @@ Additional experience: `C` `C++` `Java` `R`
 - **FORENSIC GAME 2024**
 - **Digital Forensic Showdown 2024**
 - **APUBCC Sparkathon 2023**
-
-## Security Interests
-
-- Application & API Security
-- Secure Authentication & Authorization
-- Penetration Testing & Vulnerability Assessment
-- Security Engineering
-- Threat Detection & Security Monitoring
-- Blockchain & Web3 Security
-- Security Automation
-- Secure Backend Architecture
-
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LowQE21&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=LowQE21&theme=tokyonight)
 
 ## Contact
 
